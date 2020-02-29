@@ -19,9 +19,7 @@ First, we need to practice greeting everyone. (I don't know about you, but I som
 
 One might think that we could just type
 
-```js
-Hello, everybody!
-```
+c
 
 in our browser's console and be done with it. Give it a try. (If you're on a Mac, that would be `Command` + `Option` + `J` together.)
 
